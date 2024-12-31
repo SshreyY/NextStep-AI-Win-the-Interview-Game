@@ -1,1 +1,1 @@
-# NextStep-AI-Win-the-Interview-Game
+# NextStep-AI: Win-the-Interview-Game
